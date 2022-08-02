@@ -53,9 +53,15 @@ function Home(): JSX.Element {
   const posts = data && data.homeData.posts
   const { t, lang } = useTranslation('home')
 
-  if (error) {
-    return <div></div>
-  }
+  useEffect(() => {
+    console.log('data from homedata: ', data)
+    console.log('loading from homedata: ', loading)
+    console.log('error from homedata: ', error)
+  }, [])
+
+  // if (error) {
+  //   return <div></div>
+  // }
 
   const toggleSidebar = () => {
     if (
@@ -93,7 +99,7 @@ function Home(): JSX.Element {
     }
   }, [])
 
-  return (
+  return error ? (
     <div className="main home-page skeleton-body">
       <div className="mb-lg-2"></div>
 
@@ -722,10 +728,10 @@ function Home(): JSX.Element {
                       ) : (
                         <div className="row">
                           <div className="col-xl-12">
-                            <ProductFourteen product={featuredProducts[0]} />
+                            {/* <ProductFourteen product={featuredProducts[0]} /> */}
                           </div>
                           <div className="col-xl-12">
-                            <ProductFourteen product={dealProducts[0]} />
+                            {/* <ProductFourteen product={dealProducts[0]} /> */}
                           </div>
                         </div>
                       )}
@@ -821,6 +827,8 @@ function Home(): JSX.Element {
 
       <NewsletterModal />
     </div>
+  ) : (
+    <div>Error</div>
   )
 }
 

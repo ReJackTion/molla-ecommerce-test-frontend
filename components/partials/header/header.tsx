@@ -28,10 +28,6 @@ function Header(): JSX.Element {
 
   const { t, lang } = useTranslation('common')
 
-  useEffect(() => {
-    console.log('router from header:', router)
-  }, [])
-
   return (
     <header className="header header-14">
       <div className="header-top">

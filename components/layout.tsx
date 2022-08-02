@@ -52,11 +52,14 @@ function Layout({ children, hideQuick, hideVideo }): JSX.Element {
   }
 
   function scrollHandler() {
-    let scrollTop = document.querySelector('#scroll-top')
-    if (window.pageYOffset >= 400) {
-      scrollTop.classList.add('show')
-    } else {
-      scrollTop.classList.remove('show')
+    let scrollTop =
+      (document.querySelector('#scroll-top') as HTMLElement) || null
+    if (scrollTop !== null) {
+      if (window.pageYOffset >= 400) {
+        scrollTop.classList.add('show')
+      } else {
+        scrollTop.classList.remove('show')
+      }
     }
   }
 

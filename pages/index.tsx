@@ -57,7 +57,7 @@ function Home(): JSX.Element {
     console.log('data from homedata: ', data)
     console.log('loading from homedata: ', loading)
     console.log('error from homedata: ', error)
-  }, [])
+  }, [data, error, loading])
 
   // if (error) {
   //   return <div></div>

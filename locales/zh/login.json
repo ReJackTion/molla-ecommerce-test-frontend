@@ -1,0 +1,20 @@
+{
+    "login_signup": "登入 / 注册",
+    
+    "signIn": "登入",
+    "register": "注册",
+    "userNameOrEmail": "用户名称 / 电邮",
+    "password": "密码",
+    "login": "登入",
+    "rememberMe": "记得我",
+    "forgotPassword": "忘记密码?",
+    "orSignInWith": "或者使用以下登入",
+    "loginWithGoogle": "谷歌",
+    "loginWithFacebook": "脸书",
+
+    "userEmail": "电邮",
+    "signUp": "注册",
+    "agreePolicy": "我同意隐私权政策",
+    "agree": "本人同意",
+    "policy": "隐私权政策"
+}

@@ -1,0 +1,17 @@
+{
+    "shop": "Kedai",
+    "home": "Laman Utama",
+    "wishlist": "Senarai hajat",
+
+    "product": "Produk",
+    "price": "Harga",
+    "stockStatus": "Status stok",
+    "outOfStock": "Kehabisan stok",
+    "inStock": "Ada stok",
+    "addToCart": "tambah ke troli",
+
+    "noProduct": "Tiada produk ditambahkan pada senarai hajat",
+    "goShop": "Jom beli-belah",
+
+    "shareOn": "Kongsikan di"
+}

@@ -1,0 +1,55 @@
+{
+  "links": "Pautan",
+  "call": "Hubungi",
+  "currency": "Mata wang",
+  "language": "Bahasa",
+  "login_signup": "Log masuk / Daftar",
+
+  "browseCategories": "Semak Imbas Kategori",
+  "compare": "Banding",
+  "wishlist": "Senarai hajat",
+  "cart": "Troli",
+
+  "home": "Laman utama",
+  "shop": "Kedai",
+  "product": "Produk",
+  "pages": "Halaman",
+  "blog": "Blog",
+  "elements": "Unsur-unsur",
+  "clearance": "Penghabisan Diskaun Sehingga {{discount}}",
+
+
+  "MollaDescription": "Malayu Praesent dapibus, neque id cursus ucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.",
+  "callUs": "Ada Soalan? Cuba hubungi kami pada waktu pejabat (09:00AM - 06:00PM)",
+  "paymentMethods": "Cara bayaran",
+  "usefulLinks": "Pautan yang berguna",
+  "AboutMolla": "Tentang Molla",
+  "faq": "Soalan lazim",
+  "contactUs": "Hubungi Kami",
+  "customerService": "Khidmat Pelanggan",
+  "myAccount": "Akaun Saya",
+  "viewCart": "Semak Troli",
+  "myWishlist": "Senarai Hajat Saya",
+  "signUpToNewsletter": "Daftar ke surat berita kami",
+  "newletterDescription": "Melayu Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan.",
+  "newletterEmail": "alamat E-mel",
+
+  "copyright": "Hak Cipta © {{year}} Molla Store. Hak Cipta Terpelihara.",
+  "termsOfUse": "Syarat Penggunaan",
+  "privacyPolicy": "Dasar Privasi",
+  "followUs": "IKUTI KAMI",
+
+
+  "get": "dapatkan diskaun",
+  "off": "",
+  "modalSubscribeMessage": "Langgan surat berita eCommerce Molla untuk menerima kemas kini tepat pada masanya daripada produk kegemaran anda.",
+  "enterEmail": "Alamat E-mel anda",
+  "go": "Jom",
+  "dontShowPopUp": "Jangan tunjukkan pop timbul ini lagi",
+
+
+
+  "searchProduct": "Cari produk ...",
+  "menu": "MENU",
+  "categories": "KATEGORI"
+}

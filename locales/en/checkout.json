@@ -1,0 +1,40 @@
+{
+    "checkout": "Checkout",
+    "shop": "Shop",
+    "home": "Home",
+
+    "haveCoupon": "Have a coupon",
+    "enterCouponCode": "Click here to enter your code",
+    "billingDetails": "Billing Details",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "companyName": "Company Name",
+    "optional": "Optional",
+    "country": "Country",
+
+    "streetAddress": "Street address",
+    "streetAddressPlaceholder1": "House number and Street name",
+    "streetAddressPlaceholder2": "Appartments, suite, unit etc ...",
+    "townCity": "Town / City",
+    "stateCountry": "State / County",
+    "postcodeZip": "Postcode / ZIP",
+
+    "phone": "Phone number",
+    "email": "Email address",
+    "createAccount": "Create an account",
+    "orderNotes": "Order notes",
+    "notesPlaceholder": "Notes about your order, e.g. special notes for delivery",
+
+    "yourOrder": "Your Order",
+    "product": "Product",
+    "subtotal": "Subtotal",
+
+    "total": "Total",
+    "bankTransfer": "Direct bank transfer",
+    "cheque": "Cheque payments",
+    "cod": "Cash on delivery",
+    "paypal": "PayPal",
+    "creditCard": "Credit Card (stripe)",
+    "placeOrder": "Place Order",
+    "proceed": "Proceed To Checkout"
+}

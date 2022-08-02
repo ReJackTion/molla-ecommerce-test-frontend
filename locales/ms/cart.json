@@ -1,0 +1,21 @@
+{
+    "shoppingCart": "Troli beli belah",
+    "shop": "Kedai",
+    "home": "Laman Utama",
+    
+    "noProduct": "Tiada produk ditambahkan pada troli",
+    "returnToShop": "KEMBALI KE KEDAI",
+
+    "product": "Produk",
+    "price": "Harga",
+    "quantity": "Kuantiti",
+    "total": "Jumlah",
+
+    "couponCode": "Kod Kupon", 
+    "update": "KEMASKINI TROLI",
+
+    "cartTotal": "Jumlah Troli",
+    "subtotal": "Jumlah Kecil",
+    "proceed": "TERUSKAN UNTUK PEMBAYARAN",
+    "continue": "TERUSKAN UNTUK MEMBELI-BELAH"
+}

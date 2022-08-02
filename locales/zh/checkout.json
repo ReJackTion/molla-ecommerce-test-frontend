@@ -1,0 +1,40 @@
+{
+    "checkout": "付款",
+    "shop": "商店",
+    "home": "主页",
+
+    "haveCoupon": "拥有优惠券",
+    "enterCouponCode": "单击此处输入您的代码",
+    "billingDetails": "帐单详情",
+    "firstName": "名",
+    "lastName": "姓",
+    "companyName": "公司名称",
+    "optional": "可选",
+    "country": "国家",
+
+    "streetAddress": "街道地址",
+    "streetAddressPlaceholder1": "门牌号和街道名称",
+    "streetAddressPlaceholder2": "公寓、套房、单元等...",
+    "townCity": "城镇 / 城市",
+    "stateCountry": "州 / 国家",
+    "postcodeZip": "邮编",
+
+    "phone": "电话号码",
+    "email": "电邮地址",
+    "createAccount": "创建一个帐户",
+    "orderNotes": "订单备注",
+    "notesPlaceholder": "关于您的订单的注释，例如交货特别说明",
+
+    "yourOrder": "您的订单",
+    "product": "产品",
+    "subtotal": "小计",
+
+    "total": "总价",
+    "bankTransfer": "直接银行转账",
+    "cheque": "支票付款",
+    "cod": "货到付款",
+    "paypal": "贝宝",
+    "creditCard": "信用卡 (stripe)",
+    "placeOrder": "下订单",
+    "proceed": "进行结算"
+}

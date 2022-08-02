@@ -1,0 +1,40 @@
+{
+    "checkout": "Pembayaran",
+    "shop": "Kedai",
+    "home": "Laman Utama",
+
+    "haveCoupon": "Ada kupon",
+    "enterCouponCode": "Klik di sini untuk memasukkan kod anda",
+    "billingDetails": "Maklumat Bil",
+    "firstName": "Nama Pertama",
+    "lastName": "Nama Keluarga",
+    "companyName": "Nama Syarikat",
+    "optional": "Pilihan",
+    "country": "Negara",
+
+    "streetAddress": "Alamat Jalan",
+    "streetAddressPlaceholder1": "Nombor rumah dan nama Jalan",
+    "streetAddressPlaceholder2": "Pangsapuri, suite, unit dll...",
+    "townCity": "Bandar",
+    "stateCountry": "Negeri / Negara",
+    "postcodeZip": "Poskod / ZIP",
+
+    "phone": "Nombor telefon",
+    "email": "Alamat E-mel",
+    "createAccount": "Buat akaun baru",
+    "orderNotes": "Nota pesanan",
+    "notesPlaceholder": "Nota tentang pesanan anda, mis. nota khas untuk penghantaran",
+
+    "yourOrder": "Pesanan anda",
+    "product": "Produk",
+    "subtotal": "Jumlah kecil",
+
+    "total": "Jumlah",
+    "bankTransfer": "Pemindahan bank terus",
+    "cheque": "Bayaran cek",
+    "cod": "Tunai semasa penghantaran",
+    "paypal": "PayPal",
+    "creditCard": "Kad kredit (stripe)",
+    "placeOrder": "Letakkan Pesanan",
+    "proceed": "Teruskan Ke Pembayaran"
+}

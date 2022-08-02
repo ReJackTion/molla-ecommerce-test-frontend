@@ -1,0 +1,13 @@
+{
+  "locales": ["en", "zh", "ms"],
+  "defaultLocale": "en",
+  "pages": {
+    "*": ["common", "login", "productCategories", "404"],
+    "/": ["home"],
+    "/about": ["about"],
+    "/shop/cart": ["cart"],
+    "/shop/checkout": ["checkout"],
+    "/shop/wishlist": ["wishlist"],
+    "/testPage": ["test"]
+  }
+}

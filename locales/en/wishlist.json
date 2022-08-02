@@ -1,0 +1,17 @@
+{
+    "shop": "Shop",
+    "home": "Home",
+    "wishlist": "Wishlist",
+
+    "product": "Product",
+    "price": "Price",
+    "stockStatus": "Stock Status",
+    "outOfStock": "Out of stock",
+    "inStock": "In stock",
+    "addToCart": "add to cart",
+
+    "noProduct": "No products added to wishlist",
+    "goShop": "Go Shop",
+
+    "shareOn": ""
+}

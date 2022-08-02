@@ -1,0 +1,56 @@
+{
+  "links": "链接",
+  "call": "拨打",
+  "language": "语言",
+  "currency": "货币",
+  "login_signup": "登入 / 注册",
+
+  "browseCategories": "浏览分类",
+  "compare": "对比",
+  "wishlist": "愿望清单",
+  "cart": "购物车",
+
+  "home": "主页",
+  "shop": "商店",
+  "product": "产品",
+  "pages": "页面",
+  "blog": "博客",
+  "elements": "元素",
+  "clearance": "清仓折扣高达 {{discount}}",
+
+
+  "MollaDescription": "华语 Praesent dapibus, neque id cursus ucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.",
+  "callUs": "遇见问题了吗? 欢迎您致电至我们询问详情 (09:00AM - 06:00PM)",
+  "paymentMethods": "支付方式",
+  "usefulLinks": "有用的链接",
+  "AboutMolla": "关于 Molla",
+  "faq": "常问问题",
+  "contactUs": "联系我们",
+  "customerService": "客户服务",
+  "myAccount": "我的帐户",
+  "viewCart": "查看购物车",
+  "myWishlist": "我的收藏",
+  "signUpToNewsletter": "注册我们的时事通讯",
+  "newletterDescription": "华语 Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan.",
+  "newletterEmail": "电邮地址",
+
+  "copyright": "版权 © {{year}} Molla Store. 版权所有.",
+  "termsOfUse": "使用条款",
+  "privacyPolicy": "隐私政策",
+  "followUs": "关注我们",
+
+  
+  "get": "获得",
+  "off": "折扣",
+  "modalSubscribeMessage": "订阅 Molla 电子商务通讯，及时接收您喜爱的产品的更新。",
+  "enterEmail": "您的电邮地址",
+  "go": "确认",
+  "dontShowPopUp": "不再显示此弹出窗口",
+  
+
+
+
+  "searchProduct": "搜索产品 ...",
+  "menu": "目录",
+  "categories": "类别"
+}

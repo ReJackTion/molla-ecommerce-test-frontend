@@ -1,0 +1,56 @@
+{
+  "links": "Links",
+  "call": "Call",
+  "currency": "Currency",
+  "language": "Language",
+  "login_signup": "Log in / Sign up",
+
+  "browseCategories": "Browse Categories",
+  "compare": "Compare",
+  "wishlist": "Wishlist",
+  "cart": "Cart",
+
+  "home": "Home",
+  "shop": "Shop",
+  "product": "Product",
+  "pages": "Pages",
+  "blog": "Blog",
+  "elements": "Elements",
+  "clearance": "Clearance Up to {{discount}} Off",
+
+
+  "MollaDescription": "Praesent dapibus, neque id cursus ucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.",
+  "callUs": "Got Question? Call us during office hours (09:00AM - 06:00PM)",
+  "paymentMethods": "Payment Methods",
+  "usefulLinks": "Useful links",
+  "AboutMolla": "About Molla",
+  "faq": "FAQ",
+  "contactUs": "Contact us",
+  "customerService": "Customer Service",
+  "myAccount": "My Account",
+  "viewCart": "View Cart",
+  "myWishlist": "My Wishlist",
+  "signUpToNewsletter": "Sign up to our newsletter",
+  "newletterDescription": "Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan.",
+  "newletterEmail": "Email Address",
+  
+  "copyright": "Copyright © {{year}} Molla Store. All Rights Reserved.",
+  "termsOfUse": "Terms Of Use",
+  "privacyPolicy": "Privacy Policy",
+  "followUs": "FOLLOW US",
+
+
+  "get": "Get",
+  "off": "Off",
+  "modalSubscribeMessage": "Subscribe to the Molla eCommerce newsletter to receive timely updates from your favorite products.",
+  "enterEmail": "Your Email Address",
+  "go": "Go",
+  "dontShowPopUp": "Do not show this popup again",
+
+
+
+
+  "searchProduct": "Search product ...",
+  "menu": "MENU",
+  "categories": "CATEGORIES"
+}

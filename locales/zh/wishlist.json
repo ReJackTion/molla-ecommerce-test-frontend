@@ -1,0 +1,17 @@
+{
+    "shop": "商店",
+    "home": "主页",
+    "wishlist": "愿望清单",
+
+    "product": "产品",
+    "price": "价格",
+    "stockStatus": "库存状况",
+    "outOfStock": "缺货",
+    "inStock": "尚有存货",
+    "addToCart": "添加到购物车",
+
+    "noProduct": "没有产品添加到愿望清单",
+    "goShop": "逛一逛",
+
+    "shareOn": "分享至"
+}

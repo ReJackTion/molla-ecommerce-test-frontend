@@ -1,0 +1,21 @@
+{
+    "shoppingCart": "Shopping Cart",
+    "shop": "Shop",
+    "home": "Home",
+
+    "noProduct": "No products added to the cart",
+    "returnToShop": "RETURN TO SHOP",
+
+    "product": "Product",
+    "price": "Price",
+    "quantity": "Quantity",
+    "total": "Total",
+
+    "couponCode": "Coupon Code", 
+    "update": "UPDATE CART",
+    
+    "cartTotal": "Cart Total",
+    "subtotal": "Subtotal",
+    "proceed": "PROCEED TO CHECKOUT",
+    "continue": "CONTINUE SHOPPING"
+}

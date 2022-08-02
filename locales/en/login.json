@@ -1,0 +1,20 @@
+{
+    "login_signup": "Log in / Sign up",
+
+    "signIn": "Sign in",
+    "register": "Register",
+    "userNameOrEmail": "Username / Email address",
+    "password": "Password",
+    "login": "LOG IN",
+    "rememberMe": "Remember Me",
+    "forgotPassword": "Forgot Your Password?",
+    "orSignInWith": "or Sign Up with",
+    "loginWithGoogle": "Google",
+    "loginWithFacebook": "Facebook",
+
+    "userEmail": "Your email address",
+    "signUp": "SIGN UP",
+    "agreePolicy": "I agree to the privacy policy",
+    "agree": "I agree to the",
+    "policy": "privacy policy"
+}

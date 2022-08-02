@@ -1,0 +1,20 @@
+{
+    "login_signup": "Log masuk / Daftar",
+    
+    "signIn": "Log masuk",
+    "register": "Daftar",
+    "userNameOrEmail": "Nama Pengguna / E-mel",
+    "password": "Kata laluan",
+    "login": "LOG MASUK",
+    "rememberMe": "Ingatkan saya",
+    "forgotPassword": "Lupa kata laluan?",
+    "orSignInWith": "Atau Log masuk dengan",
+    "loginWithGoogle": "Google",
+    "loginWithFacebook": "Facebook",
+
+    "userEmail": "E-mel",
+    "signUp": "DAFTAR",
+    "agreePolicy": "Saya bersetuju kepada Dasar Privasi",
+    "agree": "Saya bersetuju kepada",
+    "policy": "Dasar Privasi"
+}
